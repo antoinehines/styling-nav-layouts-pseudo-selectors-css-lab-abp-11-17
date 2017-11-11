@@ -73,15 +73,15 @@ color: #0056b3;
   text-decoration: underline;
 }
 
-.question {
+.questions {
   padding: 0 20px 0 20px;
 }
 
-.question h4 {
+.questions h4 {
   font-size: 30px;
   margin: 0 0 10px;
 }
 
-.question p {
+.questions p {
   margin: 20px 0 0 0;
 }
